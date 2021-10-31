@@ -48,7 +48,13 @@ header  .hed h1{
     color: #54b195;
     font-size: 120px;
   }
-
+.logo img{
+  float: left;
+  width: 200px;
+  height: 200px;
+  margin-top: 10px;
+  margin-left: 20px;
+}
 .hometext p{
     color: rgb(143, 17, 137);
     letter-spacing: 1px;

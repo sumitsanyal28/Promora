@@ -72,6 +72,11 @@ ul li a{
   border: 1px solid blue;
   transition: 0.6s ease;
 }
+.secdiv{
+  float: left;
+  padding-left: 20px;
+  padding-top: 10px;
+}
 
 ul li.active a{
   background-color: white;

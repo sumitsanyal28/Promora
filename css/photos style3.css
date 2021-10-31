@@ -100,20 +100,22 @@ ul li a:hover{
   height: 250px;
 }
 
-.vid1 video{
+.vid1 {
   float: left;
   margin-left: 100px;
   margin-top: 20px;
-  width: 450px;
-  height: 250px;
+  width: 200px;
+  height: 200px;
+  display: flex;
 }
 
-.vid2 video{
+.vid2 {
   float: left;
   margin-left: 200px;
   margin-top: 20px;
-  width: 450px;
-  height: 250px;
+  width: 200px;
+  height: 200px;
+  display: flex;
 }
 .upload button {
 
@@ -125,7 +127,7 @@ ul li a:hover{
   padding: 15px 32px;
   text-align: center;
   text-decoration: solid;
-  display: inline-block;
+
   font-size: 16px;
   box-shadow: 0 9px #999;
 }
